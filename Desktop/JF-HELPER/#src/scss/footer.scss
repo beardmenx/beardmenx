@@ -1,0 +1,92 @@
+.footer { 
+    height: 300px;
+    background-color: var(--main-color2);
+  }
+  .footer__container {
+    display: flex;
+    padding-top: 80px;
+  
+  }
+  .footer__contacts{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 0 300px 0 150px;
+  }
+  
+  .contacts__list:nth-child(3) {
+    margin-left: 5px;
+  }
+  
+  .contacts__list-item {
+  }
+  .octicon {
+  }
+  
+  .octicon-mark-github path {
+    fill: var(--fonts-color);
+  }
+  .octicon-mark-github:hover path {
+    fill: var(--main-color);
+    transition: 0.2s;
+  }
+  .v-align-middle {
+  }
+  
+  .gitlab path { 
+    fill: var(--fonts-color);
+  }
+  
+  .gitlab:hover path { 
+    fill: var(--main-color);
+    transition: 0.2s;
+  }
+  
+  .footer__license {
+    text-align: center;
+    padding-top: 80px;
+    color: var(--main-color);
+  }
+  
+  .about { 
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-right: 230px;
+    padding-top: 25px;
+  }
+  
+  .about a { 
+    text-decoration: underline;
+  }
+  
+  .about a:hover { 
+    color: var(--main-color);
+    text-decoration: underline;
+    transition: 0.2s;
+  }
+  .about__us { 
+  
+  }
+  
+  .about__project { 
+  
+  }
+  
+  .footer__switch { 
+    
+  }
+  
+  .footer__lang { 
+    display: flex;
+    align-items: center;
+  }
+  
+  .footer__lang p { 
+    padding-right: 55px;
+  }
+  
+  .footer__theme { 
+    display: flex;
+    align-items: center;
+  }

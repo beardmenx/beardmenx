@@ -1,0 +1,70 @@
+// Mixins
+@import "mixins";
+
+// Reset 
+@import "null";
+
+// fonts settings:
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap);
+@import "fonts"; 
+$fontFamily: "Roboto", sans-serif;
+
+// Размер экрана
+$mdMob: 767.98; 
+$mdTab: 991.98;
+$mdDesk: 1999.98;
+
+// пример
+    // @media (max-width: ($mdMob+px)) {
+
+    //    }
+// пример
+
+// color 
+$main-color: #f7d65a;
+$main-color2: #f7d65a;
+$fonts-color: #fff;
+$shadow-filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+// Basic styles 
+    html {
+        background: #181818;
+        body { 
+            font-family: $fontFamily;
+            background: rgb(40, 40, 42);
+            background-size: cover;
+            font-size: 16px;
+            color: $fonts-color;
+        }
+    }
+
+    a {
+    text-decoration: none;
+    color: $fonts-color;
+    }
+    
+    li {
+    list-style: none;
+    }
+
+    [class*="__container"] {
+        max-width: 1220px;
+        margin: 0 auto;
+        padding: 0 10px;
+    }
+// Basic styles
+
+// files import 
+@import "header";
+@import "main";
+@import "footer";
+// files import
+
+// improt с обычного css - надо переделать по scss //
+// :root {
+//     --main-color: #f7d65a; = $main-color: #f7d65a;
+//     --main-color2: #100f0f; = $main-color2: #f7d65a;
+//     --fonts-color: #fff; = $fonts-color: #fff;
+//     --shadow-filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); = $shadow-filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+//   }

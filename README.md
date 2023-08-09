@@ -28,6 +28,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
     <img src="https://graphql.org/img/logo.svg" title="graphql" alt="graphql" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" title="typescript" alt="typescript" width="40" height="40"/>&nbsp
+    <img src="https://camo.githubusercontent.com/a592e4641d068dd9c5bb86813115cd21d4b01b5a3dded5547733cf59923e81f9/68747470733a2f2f7261772e6769746875622e636f6d2f436972636c6543492d5075626c69632f63696d672d6e6f64652f6d61696e2f696d672f636972636c652d6e6f64656a732e7376673f73616e6974697a653d74727565" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
+  
 
 ---
 
@@ -43,8 +45,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" title="stackoverflow" alt="stackoverflow" width="40" height="40"/>&nbsp;
     <img src="https://prettier.io/icon.png" title="prettier" alt="prettier" width="40" height="40"/>&nbsp;
           <img src="https://webpack.js.org/icon-square-small-slack.1c7f4f7a52c41f94.png" title="webpack" alt="webpack" width="40" height="40"/>&nbsp
-  <img src="https://camo.githubusercontent.com/a592e4641d068dd9c5bb86813115cd21d4b01b5a3dded5547733cf59923e81f9/68747470733a2f2f7261772e6769746875622e636f6d2f436972636c6543492d5075626c69632f63696d672d6e6f64652f6d61696e2f696d672f636972636c652d6e6f64656a732e7376673f73616e6974697a653d74727565" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
-  
+
 </div>
 
 ---

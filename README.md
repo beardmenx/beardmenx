@@ -69,15 +69,3 @@
 
 ![codewars](https://www.codewars.com/users/BeardmenX/badges/large)
 
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=beardmenx&theme=cobalt" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=beardmenx&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>

@@ -6,11 +6,9 @@
 
 
 - :telescope: Изучаю веб-разработку самомтоятельно, так как самостоятельная работа покажет на самом деле чего ты стоишь! А на курсах любой может(но не каждый их пройдет)
-
-- :seedling: Обязательно изучу Backend (node.js).
-
-- :zap:  В дальнейшем хочу освоить Python и один низкоуровневый язык.
-
+- :telescope: Интересуюсь Computer Science(операционные системы, сети, компьютерная архитектура), алгоритмы и структуры данных.
+- :zap:  Хочу освоить язык ассемблера.
+- :seedling: Обязательно изучу Backend (node.js) &  Python.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-beardmenx-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/BeardmenX) [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:beardmenx@gmail.com)
 

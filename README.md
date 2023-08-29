@@ -27,6 +27,9 @@
     <img src="https://graphql.org/img/logo.svg" title="graphql" alt="graphql" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" title="typescript" alt="typescript" width="40" height="40"/>&nbsp
     <img src="https://camo.githubusercontent.com/a592e4641d068dd9c5bb86813115cd21d4b01b5a3dded5547733cf59923e81f9/68747470733a2f2f7261772e6769746875622e636f6d2f436972636c6543492d5075626c69632f63696d672d6e6f64652f6d61696e2f696d672f636972636c652d6e6f64656a732e7376673f73616e6974697a653d74727565" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
+      <img src="https://webpack.js.org/icon-square-small-slack.1c7f4f7a52c41f94.png" title="webpack" alt="webpack" width="40" height="40"/>&nbsp
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="chatgpt" alt="chatgpt" width="40" height="40"/>&nbsp
   
 
 ---
@@ -35,14 +38,15 @@
 
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" title="Visual Studio Code" alt="VSC" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/300/300221.png" title="google" alt="google" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/187/187210.png" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" title="stackoverflow" alt="stackoverflow" width="40" height="40"/>&nbsp;
-    <img src="https://prettier.io/icon.png" title="prettier" alt="prettier" width="40" height="40"/>&nbsp;
-          <img src="https://webpack.js.org/icon-square-small-slack.1c7f4f7a52c41f94.png" title="webpack" alt="webpack" width="40" height="40"/>&nbsp
+  <img src="https://prettier.io/icon.png" title="prettier" alt="prettier" width="40" height="40"/>&nbsp;
+  <img src="https://w7.pngwing.com/pngs/580/137/png-transparent-discord-logo-thumbnail.png" title="discord" alt="discord" width="40" height="40"/>&nbsp;
+  <img src="https://banner2.cleanpng.com/20190618/xbr/kisspng-sublime-text-portable-network-graphics-transparenc-sublime-text-transparent-amp-png-clipart-free-do-5d098f66bcb4d9.044880841560907622773.jpg" title="sublime text" alt="sublime text" width="40" height="40"/>&nbsp;
 
 </div>
 
@@ -50,17 +54,17 @@
 
 ### 💻 Пройденные курсы:
 
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-|  youtube.com/HTML за 3 часа                                      | 07/2021 - 07/2021 |
-|  youtube.com/CSS за 3 часа                                       | 07/2021 - 07/2021 |
-|  from0to1.com.ua/Курс верстки сайтов от 0 до 1                   | 07/2021 - 09/2021 |
-|  udemy.com/JavaScript - Полный Курс по JavaScript                | 10/2021 - 11/2021 |
-|  itgid.info/Курс: JavaScript v2.0                                | 12/2021 - 02/2022 |
-|  itgid.info/Функции в JavaScript                                 | 06/2022 - 07/2022 |
-|  itgid.info/Методы массивов (решение задач)                      | 07/2022 - 08/2022 |
-|  masters-of-code.com/Современный Javascript c 0 до Junior        | 09/2022 - 02/2023 |
-|  youtube.com/@ITKAMASUTRA React путь самурая.        | 04/2023 - xx/2023 |
+| Курсы                                                       
+| ----------------------------------------------------------------|
+|  youtube.com/HTML за 3 часа                                     
+|  youtube.com/CSS за 3 часа                                      
+|  from0to1.com.ua/Курс верстки сайтов от 0 до 1                   
+|  udemy.com/JavaScript - Полный Курс по JavaScript             
+|  itgid.info/Курс: JavaScript v2.0                                
+|  itgid.info/Функции в JavaScript                                 
+|  itgid.info/Методы массивов (решение задач)                      
+|  masters-of-code.com/Современный Javascript c 0 до Junior       
+|  youtube.com/@ITKAMASUTRA React путь самурая.    
 ---
 
 ### 💻 Codewars:
